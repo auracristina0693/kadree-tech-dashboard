@@ -4,6 +4,8 @@ Dashboard para un Project Manager que gestiona varios proyectos digitales y nece
 
 Diseño y prototipo por **Cristina Salazar** (UX/UI Designer), con apoyo de IA en la ejecución. Ver [`docs/uso-de-ia.md`](docs/uso-de-ia.md).
 
+**[▶ Ver el prototipo en línea](https://auracristina0693.github.io/kadree-tech-dashboard/prototype/)**
+
 ## Qué entrego
 
 | Entregable pedido | Dónde está |
@@ -15,7 +17,7 @@ Diseño y prototipo por **Cristina Salazar** (UX/UI Designer), con apoyo de IA e
 
 ## Cómo ver el prototipo
 
-1. Abre `prototype/index.html` en el navegador (no necesita instalación ni servidor).
+1. Abre el [prototipo en línea](https://auracristina0693.github.io/kadree-tech-dashboard/prototype/), o `prototype/index.html` en tu navegador (no necesita instalación ni servidor).
 2. Usa el conmutador **Móvil / Desktop** del pie de página para cambiar de vista. En pantallas de 1024 px o más se ajusta solo.
 3. Desde el Dashboard, toca **Ver detalle** en cualquier proyecto para abrir la segunda pantalla.
 

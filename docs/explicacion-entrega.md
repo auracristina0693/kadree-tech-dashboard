@@ -23,3 +23,6 @@ Un PM con varios proyectos digitales pierde tiempo abriendo uno por uno para sab
 ---
 
 *Extra:* además de las 2 pantallas pedidas, el prototipo incluye Tareas, Equipo y Perfil, una vista desktop, handoff para desarrolladores y documentación. La IA aceleró la ejecución; las decisiones de diseño son mías (ver `uso-de-ia.md`).
+
+**Repositorio:** https://github.com/auracristina0693/kadree-tech-dashboard  
+**Prototipo en línea:** https://auracristina0693.github.io/kadree-tech-dashboard/prototype/

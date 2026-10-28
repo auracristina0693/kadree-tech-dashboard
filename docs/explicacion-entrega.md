@@ -22,7 +22,11 @@ Un PM con varios proyectos digitales pierde tiempo abriendo uno por uno para sab
 
 ---
 
-*Extra:* además de las 2 pantallas pedidas, el prototipo incluye Tareas, Equipo y Perfil, una vista desktop, handoff para desarrolladores y documentación. La IA aceleró la ejecución; las decisiones de diseño son mías (ver `uso-de-ia.md`).
+## Extra: fui un paso más allá
 
-**Repositorio:** https://github.com/auracristina0693/kadree-tech-dashboard  
-**Prototipo en línea:** https://auracristina0693.github.io/kadree-tech-dashboard/prototype/
+Trabajar con Figma es genial, pero usar **Claude y Claude Code** lleva todo a otro nivel. Por eso decidí ir un poco más allá y construí **un prototipo mucho más completo con el que pueden interactuar**: filtros, búsqueda, navegación entre pantallas, vista móvil y desktop, y pantallas adicionales de Tareas, Equipo y Perfil. Además incluyo handoff para desarrolladores y documentación organizada en GitHub.
+
+La IA aceleró la ejecución; las decisiones de diseño son mías (ver [`uso-de-ia.md`](uso-de-ia.md)).
+
+**Prototipo interactivo:** https://claude.ai/artifact/1cKUS8E3moiF6sBRX9YRaH  
+**Repositorio con handoff y documentación:** https://github.com/auracristina0693/kadree-tech-dashboard
